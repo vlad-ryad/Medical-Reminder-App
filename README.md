@@ -28,17 +28,17 @@
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="./assets/screenshots/Loading_screen.jpg" width="200" />|<img src="./assets/screenshots/login.jpg" width="200" />|<img src="./assets/screenshots/registration.jpg" width="200" />|<img src="./assets/screenshots/no_medications.jpg" width="200" />|
 
-| Принятое лекарство | Все лекарства приняты | Добавление | Выбор типа |
-|---------------------|----------------------|------------|------------|
-| Скриншот            | Скриншот             | Скриншот   | Скриншот   |
+| Форма добавления лекарства | Форма добавления лекарства | Добавленное лекарство | История приема лекарств|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="./assets/screenshots/add_medications_1.jpg" width="200" />|<img src="./assets/screenshots/add_medications_2.jpg" width="200" />|<img src="./assets/screenshots/Added_medicine.jpg" width="200" />|<img src="./assets/screenshots/drug_history.jpg" width="200" />|
 
-| Выбор времени | Расписание | Редактирование | Обновления |
-|----------------|------------|----------------|------------|
-| Скриншот        | Скриншот   | Скриншот       | Скриншот   |
+| Статистики приема лекарств | Экран профиля пользователя | Управление лекарствами | Форма редактирования лекарствами|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="./assets/screenshots/medicine_statistics.jpg" width="200" />|<img src="./assets/screenshots/profile.jpg" width="200" />|<img src="./assets/screenshots/medication_management.jpg" width="200" />|<img src="./assets/screenshots/editing_medications.jpg" width="200" />|
 
-| Удаление | Уведомление |
-|----------|-------------|
-| Скриншот  | Скриншот    |
+| Результат после редактирования лекарств | Экспорта отчета | Push-уведомление | Модальное окно приема лекарства|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="./assets/screenshots/result_after_editing.jpg" width="200" />|<img src="./assets/screenshots/export_report.jpg" width="200" />|<img src="./assets/screenshots/push_notification.jpg" width="200" />|<img src="./assets/screenshots/modal_action.jpg" width="200" />|
 
 ---
 
