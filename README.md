@@ -45,18 +45,29 @@
 ## Используемые технологии 🖥️
 
 ### Основные технологии:
-- **React Native** — кроссплатформенная разработка
-- **Expo** — ускоренная разработка и тестирование
-- **Firebase** — аутентификация и хранение данных
-- **Expo Notifications** — push-уведомления
-- **React Navigation** — навигация в приложении
-- **Moment.js** — работа с датами и временем
+- **Язык программирования:** JavaScript
+- **Фреймворк:** React Native (через Expo)
+- **Серверная часть:** Firebase (Auth, Firestore)
+- **Клиентское хранилище:** AsyncStorage
+- **UI/UX:** React Native Components, иконки Ionicons, FontAwesome
 
-### Дополнительные библиотеки:
-- `@react-native-picker/picker` — выбор значений
-- `@react-native-community/datetimepicker` — выбор даты и времени
-- `react-native-chart-kit` — визуализация статистики
-- `expo-sharing` — экспорт отчетов
+### Основные библиотеки и модули:
+
+| Название                            | Назначение                                      | Ссылка на ресурс установки                                         |
+|-------------------------------------|-------------------------------------------------|--------------------------------------------------------------------|
+| `expo`                              | Оболочка для запуска React Native-приложений    | https://docs.expo.dev/get-started/installation/                    |
+| `react-native`                      | Основа приложения на JS                         | https://reactnative.dev/                                           |
+| `firebase`                          | Бэкенд, аутентификация, база данных Firestore   | https://firebase.google.com/docs/web/setup                         |
+| `@react-navigation/native`          | Навигация между экранами                        | https://reactnavigation.org/docs/getting-started/                  |
+| `expo-router`                       | Навигация с маршрутизацией файлов               | https://expo.github.io/router/docs                                 |
+| `moment`                            | Работа с датами                                 | https://momentjs.com/                                              |
+| `expo-notifications`                | Локальные уведомления                           | https://docs.expo.dev/versions/latest/sdk/notifications/           |
+| `expo-sharing`                      | Экспорт файлов (CSV-отчеты)                     | https://docs.expo.dev/versions/latest/sdk/sharing/                 |
+| `expo-file-system`                  | Работа с файлами (создание и чтение CSV)        | https://docs.expo.dev/versions/latest/sdk/filesystem/              |
+| `@expo/vector-icons`                | Иконки Ionicons и FontAwesome                   | https://docs.expo.dev/guides/icons/                                |
+| `react-native-calendars`            | Отображение календаря                           | https://github.com/wix/react-native-calendars                      |
+| `react-native-chart-kit`            | Построение диаграмм (круговая диаграмма)        | https://github.com/indiespirit/react-native-chart-kit              |
+| `@react-native-async-storage/async-storage` | Локальное хранилище данных              | https://react-native-async-storage.github.io/async-storage/        |
 
 ---
 
