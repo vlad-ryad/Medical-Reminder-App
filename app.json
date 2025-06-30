@@ -1,0 +1,76 @@
+{
+  "expo": {
+    "name": "AlertMed",
+    "slug": "med-app",
+    "version": "1.2.4",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "scheme": "AlertMed",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/logo.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/images/notification-icon.png",
+          "color": "#9966CC",
+          "sound": "./assets/images/notification.wav",
+          "mode": "production"
+        }
+      ]
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.medapp",
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "remote-notification",
+          "remote-notification"
+        ],
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "statusBar": {
+        "barStyle": "dark-content"
+      }
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#ffffff",
+      "barStyle": "dark-content"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#ffffff",
+        "useNextNotificationsApi": true
+      },
+      "useNextNotificationsApi": true,
+      "package": "com.yourcompany.medapp"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/logo.png"
+    },
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "91ce1e58-1dce-4144-b576-f94af7a31602"
+      }
+    }
+  }
+}
