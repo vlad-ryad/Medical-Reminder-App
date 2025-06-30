@@ -24,7 +24,7 @@
 
 ## Обзор и скриншоты 📸
 
-| Login Screen | Sign Up Screen | Home Screen | Pressed Reminder|
+| Загрузочный экран| Экран авторизации | Экран регистрации | Главная страница без лекарств|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="./assets/screenshots/Loading_screen.jpg" width="200" />|<img src="./assets/screenshots/login.jpg" width="200" />|<img src="./assets/screenshots/registration.jpg" width="200" />|<img src="./assets/screenshots/no_medications.jpg" width="200" />|
 
