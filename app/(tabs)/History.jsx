@@ -161,7 +161,7 @@ export default function History() {
 							}}>
 								История пуста
 							</Text>
-							{/* Отображение выбранной даты даже при пустой истории */}
+							{/* Отображение выбранной даты  при пустой истории */}
 							<Text style={styles.selectedDateText}>
 								{moment(selectedDate, ['MM/DD/YYYY', 'DD.MM.YYYY', 'YYYY-MM-DD']).format('D MMMM YYYY')}
 							</Text>
