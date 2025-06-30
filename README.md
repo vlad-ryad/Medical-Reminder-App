@@ -36,7 +36,7 @@
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="./assets/screenshots/medicine_statistics.jpg" width="200" />|<img src="./assets/screenshots/profile.jpg" width="200" />|<img src="./assets/screenshots/medication_management.jpg" width="200" />|<img src="./assets/screenshots/editing_medications.jpg" width="200" />|
 
-| Результат после редактирования| Экспорта отчета | Push-уведомление | Модальное окно приема|
+| Результат редактирования| Экспорта отчета | Push-уведомление | Модальное окно приема|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="./assets/screenshots/result_after_editing.jpg" width="200" />|<img src="./assets/screenshots/export_report.jpg" width="200" />|<img src="./assets/screenshots/push_notification.jpg" width="200" />|<img src="./assets/screenshots/modal_action.jpg" width="200" />|
 
